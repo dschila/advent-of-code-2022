@@ -1,0 +1,3 @@
+= Happy Coding - Advent of Code #2022 🎄
+
+The repository is used to share the solutions for the "Advent of Code" advent calendar. 🧑🏼‍💻
